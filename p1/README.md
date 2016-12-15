@@ -5,3 +5,6 @@
 - Links:
   - A Java based applet for performing the Stroop task [Interactive Stroop Effect Experiment](https://faculty.washington.edu/chudler/java/ready.html)
   - dataset contains results from a number of participants in the task [stroopdata](https://drive.google.com/file/d/0B9Yf01UaIbUgQXpYb2NhZ29yX1U/view)
+
+- Finals:
+  - Final submit: [SONG_P1_TestPerceptualPhenomenon_submit_2.pdf](https://github.com/ilho-tiger/data-analytics-udacity/blob/master/p1/SONG_P1_TestPerceptualPhenomenon_submit_2.pdf)
